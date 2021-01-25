@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" total="29" passed="28">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="193396" started-at="2021-01-25T17:21:57Z" finished-at="2021-01-25T17:25:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="193396" started-at="2021-01-25T17:21:57Z" finished-at="2021-01-25T17:25:10Z">
+      <class name="DataProvidersTestNG.TestNGDataProviders.DataProviders">
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:DataProvidersTestNG.TestNGDataProviders.DataProviders@42d80b78]" name="login" duration-ms="6836" started-at="2021-01-25T22:51:57Z" data-provider="Sample data" finished-at="2021-01-25T22:52:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[java]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[java@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:DataProvidersTestNG.TestNGDataProviders.DataProviders@42d80b78]" name="login" duration-ms="8498" started-at="2021-01-25T22:52:04Z" data-provider="Sample data" finished-at="2021-01-25T22:52:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[selenium]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:DataProvidersTestNG.TestNGDataProviders.DataProviders@42d80b78]" name="login" duration-ms="8011" started-at="2021-01-25T22:52:12Z" data-provider="Sample data" finished-at="2021-01-25T22:52:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[python]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[python@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:DataProvidersTestNG.TestNGDataProviders.DataProviders@42d80b78]" name="login" duration-ms="5601" started-at="2021-01-25T22:52:20Z" data-provider="Sample data" finished-at="2021-01-25T22:52:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sql]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sql@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login1(java.lang.String, java.lang.String)[pri:0, instance:DataProvidersTestNG.TestNGDataProviders.DataProviders@42d80b78]" name="login1" duration-ms="5864" started-at="2021-01-25T22:52:26Z" data-provider="Sample" finished-at="2021-01-25T22:52:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login1 -->
+        <test-method status="PASS" signature="login1(java.lang.String, java.lang.String)[pri:0, instance:DataProvidersTestNG.TestNGDataProviders.DataProviders@42d80b78]" name="login1" duration-ms="5855" started-at="2021-01-25T22:52:32Z" data-provider="Sample" finished-at="2021-01-25T22:52:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[efgh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[efghi@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login1 -->
+        <test-method status="PASS" signature="login1(java.lang.String, java.lang.String)[pri:0, instance:DataProvidersTestNG.TestNGDataProviders.DataProviders@42d80b78]" name="login1" duration-ms="6183" started-at="2021-01-25T22:52:37Z" data-provider="Sample" finished-at="2021-01-25T22:52:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ijklmn]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[rtyhu@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login1 -->
+        <test-method status="PASS" signature="login1(java.lang.String, java.lang.String)[pri:0, instance:DataProvidersTestNG.TestNGDataProviders.DataProviders@42d80b78]" name="login1" duration-ms="6102" started-at="2021-01-25T22:52:44Z" data-provider="Sample" finished-at="2021-01-25T22:52:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[opqrst]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kioop@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login1 -->
+        <test-method status="PASS" signature="login2(java.lang.String, java.lang.String)[pri:0, instance:DataProvidersTestNG.TestNGDataProviders.DataProviders@42d80b78]" name="login2" duration-ms="6701" started-at="2021-01-25T22:52:50Z" data-provider="Samp" finished-at="2021-01-25T22:52:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[java]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[java@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login2 -->
+        <test-method status="PASS" signature="login2(java.lang.String, java.lang.String)[pri:0, instance:DataProvidersTestNG.TestNGDataProviders.DataProviders@42d80b78]" name="login2" duration-ms="6004" started-at="2021-01-25T22:52:56Z" data-provider="Samp" finished-at="2021-01-25T22:53:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[selenium]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login2 -->
+        <test-method status="PASS" signature="login2(java.lang.String, java.lang.String)[pri:0, instance:DataProvidersTestNG.TestNGDataProviders.DataProviders@42d80b78]" name="login2" duration-ms="6615" started-at="2021-01-25T22:53:02Z" data-provider="Samp" finished-at="2021-01-25T22:53:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[python]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[python@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login2 -->
+        <test-method status="PASS" signature="login2(java.lang.String, java.lang.String)[pri:0, instance:DataProvidersTestNG.TestNGDataProviders.DataProviders@42d80b78]" name="login2" duration-ms="6005" started-at="2021-01-25T22:53:09Z" data-provider="Samp" finished-at="2021-01-25T22:53:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sql]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sql@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login2 -->
+        <test-method status="PASS" signature="login3(java.lang.String, java.lang.String)[pri:0, instance:DataProvidersTestNG.TestNGDataProviders.DataProviders@42d80b78]" name="login3" duration-ms="6698" started-at="2021-01-25T22:53:15Z" data-provider="Sampl" finished-at="2021-01-25T22:53:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[java]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[java@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login3 -->
+        <test-method status="PASS" signature="login3(java.lang.String, java.lang.String)[pri:0, instance:DataProvidersTestNG.TestNGDataProviders.DataProviders@42d80b78]" name="login3" duration-ms="6349" started-at="2021-01-25T22:53:22Z" data-provider="Sampl" finished-at="2021-01-25T22:53:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[selenium]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login3 -->
+        <test-method status="PASS" signature="login3(java.lang.String, java.lang.String)[pri:0, instance:DataProvidersTestNG.TestNGDataProviders.DataProviders@42d80b78]" name="login3" duration-ms="6973" started-at="2021-01-25T22:53:28Z" data-provider="Sampl" finished-at="2021-01-25T22:53:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[python]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[python@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login3 -->
+        <test-method status="PASS" signature="login3(java.lang.String, java.lang.String)[pri:0, instance:DataProvidersTestNG.TestNGDataProviders.DataProviders@42d80b78]" name="login3" duration-ms="6287" started-at="2021-01-25T22:53:35Z" data-provider="Sampl" finished-at="2021-01-25T22:53:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sql]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sql@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login3 -->
+        <test-method status="PASS" signature="login4(java.lang.String, java.lang.String)[pri:0, instance:DataProvidersTestNG.TestNGDataProviders.DataProviders@42d80b78]" name="login4" duration-ms="6292" started-at="2021-01-25T22:53:41Z" data-provider="data" finished-at="2021-01-25T22:53:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[java]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[java@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login4 -->
+        <test-method status="PASS" signature="login4(java.lang.String, java.lang.String)[pri:0, instance:DataProvidersTestNG.TestNGDataProviders.DataProviders@42d80b78]" name="login4" duration-ms="6474" started-at="2021-01-25T22:53:48Z" data-provider="data" finished-at="2021-01-25T22:53:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[selenium]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login4 -->
+        <test-method status="PASS" signature="login4(java.lang.String, java.lang.String)[pri:0, instance:DataProvidersTestNG.TestNGDataProviders.DataProviders@42d80b78]" name="login4" duration-ms="7092" started-at="2021-01-25T22:53:54Z" data-provider="data" finished-at="2021-01-25T22:54:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[python]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[python@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login4 -->
+        <test-method status="PASS" signature="login4(java.lang.String, java.lang.String)[pri:0, instance:DataProvidersTestNG.TestNGDataProviders.DataProviders@42d80b78]" name="login4" duration-ms="7351" started-at="2021-01-25T22:54:01Z" data-provider="data" finished-at="2021-01-25T22:54:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sql]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sql@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login4 -->
+        <test-method status="PASS" signature="login5(java.lang.String, java.lang.String)[pri:0, instance:DataProvidersTestNG.TestNGDataProviders.DataProviders@42d80b78]" name="login5" duration-ms="8500" started-at="2021-01-25T22:54:09Z" data-provider="Sdata" finished-at="2021-01-25T22:54:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[java]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[java@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login5 -->
+        <test-method status="PASS" signature="login5(java.lang.String, java.lang.String)[pri:0, instance:DataProvidersTestNG.TestNGDataProviders.DataProviders@42d80b78]" name="login5" duration-ms="8112" started-at="2021-01-25T22:54:17Z" data-provider="Sdata" finished-at="2021-01-25T22:54:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[selenium]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login5 -->
+        <test-method status="PASS" signature="login5(java.lang.String, java.lang.String)[pri:0, instance:DataProvidersTestNG.TestNGDataProviders.DataProviders@42d80b78]" name="login5" duration-ms="5936" started-at="2021-01-25T22:54:25Z" data-provider="Sdata" finished-at="2021-01-25T22:54:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[python]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[python@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login5 -->
+        <test-method status="PASS" signature="login5(java.lang.String, java.lang.String)[pri:0, instance:DataProvidersTestNG.TestNGDataProviders.DataProviders@42d80b78]" name="login5" duration-ms="7184" started-at="2021-01-25T22:54:31Z" data-provider="Sdata" finished-at="2021-01-25T22:54:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sql]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sql@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login5 -->
+        <test-method status="PASS" signature="login6(java.lang.String, java.lang.String)[pri:0, instance:DataProvidersTestNG.TestNGDataProviders.DataProviders@42d80b78]" name="login6" duration-ms="7227" started-at="2021-01-25T22:54:38Z" data-provider="Samdata" finished-at="2021-01-25T22:54:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[java]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[java@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login6 -->
+        <test-method status="PASS" signature="login6(java.lang.String, java.lang.String)[pri:0, instance:DataProvidersTestNG.TestNGDataProviders.DataProviders@42d80b78]" name="login6" duration-ms="9434" started-at="2021-01-25T22:54:45Z" data-provider="Samdata" finished-at="2021-01-25T22:54:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[selenium]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login6 -->
+        <test-method status="PASS" signature="login6(java.lang.String, java.lang.String)[pri:0, instance:DataProvidersTestNG.TestNGDataProviders.DataProviders@42d80b78]" name="login6" duration-ms="7806" started-at="2021-01-25T22:54:55Z" data-provider="Samdata" finished-at="2021-01-25T22:55:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[python]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[python@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login6 -->
+        <test-method status="PASS" signature="login6(java.lang.String, java.lang.String)[pri:0, instance:DataProvidersTestNG.TestNGDataProviders.DataProviders@42d80b78]" name="login6" duration-ms="7322" started-at="2021-01-25T22:55:03Z" data-provider="Samdata" finished-at="2021-01-25T22:55:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sql]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sql@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login6 -->
+        <test-method status="FAIL" signature="login7(java.lang.String, java.lang.String)[pri:0, instance:DataProvidersTestNG.TestNGDataProviders.DataProviders@42d80b78]" name="login7" duration-ms="0" started-at="2021-01-25T22:55:10Z" data-provider="le data" finished-at="2021-01-25T22:55:10Z">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Method private void DataProvidersTestNG.TestNGDataProviders.DataProviders.login7(java.lang.String,java.lang.String) requires a @DataProvider named : le data]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Method private void DataProvidersTestNG.TestNGDataProviders.DataProviders.login7(java.lang.String,java.lang.String) requires a @DataProvider named : le data
+	at org.testng.internal.Parameters.findDataProvider(Parameters.java:263)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:425)
+	at org.testng.internal.Invoker.handleParameters(Invoker.java:1253)
+	at org.testng.internal.Invoker.createParameters(Invoker.java:980)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1070)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:753)
+	at org.testng.TestRunner.run(TestRunner.java:607)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:368)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:363)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:321)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:270)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1284)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1209)
+	at org.testng.TestNG.runSuites(TestNG.java:1124)
+	at org.testng.TestNG.run(TestNG.java:1096)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login7 -->
+      </class> <!-- DataProvidersTestNG.TestNGDataProviders.DataProviders -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
